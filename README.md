@@ -4,19 +4,54 @@ Estudante do 3º ano do Ensino Médio Técnico e futuro Desenvolvedor de Sistema
 
 ---
 
-### 🚀 Sobre Mim
-- 🏫 Aluno da **ETEC**, cursando o 3º ano técnico em **Desenvolvimento de Sistemas**.
-- 🎯 Buscando minha primeira oportunidade no mercado de tecnologia (Estágio / Aprendiz).
-- 🧠 Focado em aprender boas práticas de programação e resolver problemas reais com código.
+### 👤 Apresentação Pessoal
+Tenho 17 anos e sou apaixonado por tecnologia e resolução de problemas através do código. Atualmente, busco construir uma base sólida de conhecimento para ingressar com excelência no mercado de trabalho e evoluir continuamente como profissional.
 
-### 🛠️ Tecnologias e Ferramentas
-- **Front-end:** HTML5 | CSS3 | JavaScript
-- **Back-end & Banco de Dados:** PHP | MySQL
-- **Ferramentas:** Git | GitHub | VS Code
+- 🏫 **Instituição:** Aluno da ETEC (Ensino Médio Integrado ao Técnico).
+- 🎓 **Curso:** Técnico em Desenvolvimento de Sistemas (3º Ano).
 
-### 📈 O que estou estudando agora?
-- 💻 Desenvolvimento de projetos práticos na ETEC (como o TCC).
-- 📚 Aprofundando meus conhecimentos em lógica de programação e arquitetura de software.
+---
+
+### 💻 Áreas de Interesse na Tecnologia
+- Desenvolvimento Web (Front-end e Back-end)
+- Engenharia de Software e Lógica de Programação
+- Banco de Dados e Segurança da Informação
+
+---
+
+### 🛠️ Tecnologias e Ferramentas (Contato e Projetos)
+Aqui estão as linguagens, ferramentas e plataformas que utilizei na ETEC e em projetos acadêmicos:
+- **Linguagens de Programação:** HTML5, CSS3, JavaScript, PHP, Kotlin.
+- **Banco de Dados:** MySQL.
+- **Ferramentas e Plataformas:** Git, GitHub, VS Code e XAMPP.
+
+---
+
+### 📚 Próximos Aprendizados (Interesses Futuros)
+Tecnologias que pretendo estudar e aprofundar meus conhecimentos em breve:
+- Frameworks modernos como **Express** ou **Node.js**.
+- Metodologias Ágeis (Scrum/Kanban).
+
+---
+
+### 📁 Projetos Desenvolvidos
+- **Projetos Acadêmicos (ETEC):** Desenvolvimento de sistemas web completos durante as aulas técnicas, englobando desde a modelagem do banco de dados (MySQL) e interface do usuário (HTML/CSS/JS).
+- **Trabalho de Conclusão de Curso (TCC):** Atualmente desenvolvendo o projeto final de curso, aplicando boas práticas de engenharia de software e trabalho em equipe.
+
+---
+
+### 🎯 Objetivos Profissionais
+- **Curto Prazo:** Concluir o Ensino Técnico na ETEC com excelente aproveitamento prático e teóricos.
+- **Longo Prazo:** Me consolidar como um Desenvolvedor de Software especialista, liderando projetos de grande impacto.
+
+---
+
+### 🔮 Perspectivas para o Futuro (Obrigatório)
+Meus próximos passos combinam o início da minha jornada no mercado de trabalho com a continuidade dos meus estudos:
+1. **Estágio em TI:** Conquistar minha primeira oportunidade de estágio na área de Tecnologia da Informação para aplicar meus conhecimentos teóricos em cenários reais e aprender com profissionais experientes.
+2. **Formação Acadêmica:** Ingressar em uma universidade no curso de Ciência da Computação, Engenharia de Software ou Análise e Desenvolvimento de Sistemas para dar sequência à minha formação e evolução profissional.
+
+---
 
 ### 📬 Vamos nos conectar?
 - 📧 E-mail Profissional: adrian.godoi@aluno.cps.sp.gov.br
