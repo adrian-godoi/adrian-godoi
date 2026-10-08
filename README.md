@@ -5,7 +5,7 @@ Estudante do 3º ano do Ensino Médio Técnico de Desenvolvimento de Sistemas.
 ---
 
 ### 👤 Apresentação Pessoal
-Tenho 17 anos e gosto muito de tecnologia e da resolução de problemas através de códigos de programação. Atualmente, busco construir uma base sólida de conhecimento para ingressar com excelência no mercado de trabalho e evoluir continuamente como profissional.
+Tenho 17 anos e gosto muito de tecnologia e de códigos de programação. Atualmente, busco construir uma base sólida de conhecimento para ingressar com excelência no mercado de trabalho e evoluir continuamente como profissional.
 
 - 🏫 **Instituição:** Aluno da ETEC (Ensino Médio Integrado ao Técnico).
 - 🎓 **Curso:** Técnico em Desenvolvimento de Sistemas (3º Ano).
